@@ -1,0 +1,13 @@
+./miTest/AppTest.java
+./miPrincipal/DemoCola.java
+./miPrincipal/DemoDelimitadores.java
+./miPrincipal/Cola.java
+./miPrincipal/DemoQueue.java
+./miPrincipal/Persona.java
+./miPrincipal/DemoStack.java
+./miPrincipal/DemoTablaDispersion.java
+./miPrincipal/Pila.java
+./miPrincipal/Delimitadores.java
+./miPrincipal/Principal.java
+./miPrincipal/Nodo.java
+./miPrincipal/DemoPila.java
